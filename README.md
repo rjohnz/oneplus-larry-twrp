@@ -17,6 +17,4 @@ Shipped | Android 13, OxygenOS 13.1
 Storage | 128GB 8GB RAM, 256GB 8GB RAM | UFS 2.2
 Battery | Li-Po 5000 mAh (67W wired, 80% in 30 min)
 Display | IPS LCD, 120Hz, 550 nits (typ), 680 nits (peak) | 6.72 inches
-
-Network    Technology 	
-GSM / HSPA / LTE / 5G
+Network |   Technology GSM / HSPA / LTE / 5G
