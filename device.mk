@@ -146,4 +146,12 @@ RECOVERY_LIBRARY_SOURCE_FILES += \
 RECOVERY_BINARY_SOURCE_FILES += \
     $(TARGET_OUT_VENDOR_EXECUTABLES)/hw/vendor.qti.hardware.vibrator.service
 
+# Set those variables here to overwrite the inherited values.
+#BOARD_VENDOR := oneplus
+#PRODUCT_BRAND := oneplus
+#PRODUCT_DEVICE := OP5958L1
+#PRODUCT_NAME := pb_OP5958L1
+#PRODUCT_MANUFACTURER := oneplus
+#PRODUCT_MODEL := $(shell echo $(PRODUCT_BRAND) | tr  '[:lower:]' '[:upper:]')_$(PRODUCT_DEVICE)
+#TARGET_VENDOR := oneplus
 
