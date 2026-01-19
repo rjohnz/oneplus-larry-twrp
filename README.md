@@ -3,7 +3,7 @@
 Announced 2023, April 04 Available. Released 2023, April 11
 
 ## Disclaimer - Unofficial TWRP!
-These are my personal builds. In no way do i hold responsibility if you messes up your device.
+These are my personal builds and no way do i hold responsibility if you messes up your device.
 Proceed at your own risk.
 
 ### Device specifications
