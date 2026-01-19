@@ -1,4 +1,4 @@
-### TWRP Device Tree For OnePlus Nord CE3 Lite 5G (larry)
+### TWRP vendor_boot device tree for OnePlus Nord CE3 Lite 5G (larry)
 
 Announced 2023, April 04 Available. Released 2023, April 11
 
